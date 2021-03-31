@@ -6,6 +6,8 @@
 ## Intro
 It was developed as a part of the coursework for Computer Networking lab course (3/2)
 
+## Team Member
+
 ## About App
 Using this app you can chat with others who are connected in a same network.
 Just you have to know their Ip addresses and the Port addresses they are using to create server.
